@@ -10,4 +10,4 @@
 
 [Harry-Chen/Learn-Helper](https://github.com/Harry-Chen/Learn-Helper): Implement the feature of staying logged in.
 
-[the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved): Fix the bug of copy video link.
+[the1812/Bilibili-Evolved](https://github.com/the1812/Bilibili-Evolved): Fix the bug of copying video link.
