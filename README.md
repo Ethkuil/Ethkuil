@@ -2,7 +2,7 @@
 
 ![GitHub stats](https://github-readme-stats-ethkuil.vercel.app/api?username=Ethkuil&count_private=true)
 
-## Practical contributions for practial projects
+## Practical contributions for practical projects
 
 > (Sorted by newest (according to when I began contributnig)
 
