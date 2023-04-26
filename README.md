@@ -1,5 +1,5 @@
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ethkuil&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/Ethkuil)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ethkuil&layout=compact)](https://github.com/Ethkuil)
+[![GitHub stats](https://github-readme-stats-15nhj2icj-ethkuil.vercel.app/api?username=Ethkuil&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/Ethkuil)
+[![Top Langs](https://github-readme-stats-15nhj2icj-ethkuil.vercel.app/api/top-langs/?username=Ethkuil&layout=compact)](https://github.com/Ethkuil)
 
 ## Practical contributions for practical projects
 
